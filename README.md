@@ -1,4 +1,5 @@
-[Uploading nasa_pdf.pdf…]()
+![Uploading nasa_ss.png…]()
+
 # 🔥 Flame in Freefall: NASA Microgravity Fire Safety & AI Governance Agent
 
 An elite, production-grade NASA research assistant built for microgravity combustion science and AI safety auditing. Designed for the NASA Space Apps Challenge, it bridges complex orbital physics with transparent Open Science traceability.
