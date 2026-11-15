@@ -1,4 +1,3 @@
-![Uploading nasa_ss.png…]()
 
 # 🔥 Flame in Freefall: NASA Microgravity Fire Safety & AI Governance Agent
 
